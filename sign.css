@@ -6,8 +6,9 @@
     max-width: 450px;
     padding: 20px;
     border-radius: 20px;
-    position: relative;
-     top:25px;
+    position: absluote;
+    width:auto;
+    top:25px;
     background-color: #1a1a1a;
     color: #fff;
     border: 1px solid #333;
